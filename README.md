@@ -1,0 +1,1 @@
+The purpose of GitHub is to record iterations and take backups of the website. The client has approved the use of offsite backups on GitHub initially, ensuring that all changes and updates are tracked, and the website can be restored if needed.
